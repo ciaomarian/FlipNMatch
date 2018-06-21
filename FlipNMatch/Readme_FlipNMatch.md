@@ -13,7 +13,7 @@ This game was built as a Udacity Front End Dev. course project. The purpose of t
 **The game ends once all cards have been matched.**
 	**A pop-up appears with the elapsed time, final star rating and a restart button.**
 #### Resources used to research and/or create the game:
-**I looked at a lot of different approaches to code this game...thanks to all for inspiration and education:**
+####**I looked at a lot of different approaches to code this game...thanks to all for inspiration and education:**####
 	*Udacity Forums, Udacity Git Hubs, MDN, CSS Tricks, Scotch, Kahn Academy.
 	*My Udacity Mentor, Mofid, and Reviewer. Python Tutor, and other websites.
 	*Card Flip CSS: https://3dtransforms.desandro.com/card-flip
