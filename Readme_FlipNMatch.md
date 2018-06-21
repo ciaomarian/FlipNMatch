@@ -12,12 +12,13 @@ This game was built as a Udacity Front End Dev. course project. The purpose of t
 	*If the cards do not match, cards are flipped back to hide unmatched symbols.
 **The game ends once all cards have been matched.**
 	**A pop-up appears with the elapsed time, final star rating and a restart button.**
+
 #### Resources used to research and/or create the game:
-**I looked at a lot of different approaches to code this game...thanks to all for inspiration and education:**
-	*Udacity Forums, Udacity GitHubs, MDN, CSS Tricks, Scotch, Kahn Academy, Python Tutor.
-	*My Udacity Mentor, Mofid, and Udacity Project Reviewer.
-	*Card Flip CSS: https://3dtransforms.desandro.com/card-flip
-	*Game Icons: @gameicons (Creative commons) 
-	*Game Icons authors: Lorc,&#160;Delapouite&#160;&amp;&#160;contributors
-	*Adobe Illustrator, PhotoShop, Dreamweaver
-	*Atom, Git Hub.
+	 * Udacity Forums, Udacity Git Hubs, MDN, CSS Tricks, Scotch, Kahn Academy, and Python Tutor.
+	 * My Udacity Mentor, Mofid, and Reviewer.
+	 * Card Flip CSS: https://3dtransforms.desandro.com/card-flip
+	 * Game Icons: @gameicons (Creative commons) 
+	 * Game Icons authors:Lorc, Delapouite and contributors
+	 * Adobe CC (Illustrator, PhotoShop, Dreamweaver).
+	 * Atom, Git Hub.
+#### I looked at a lot of different approaches to code this game...thanks to all for inspiration and education!
