@@ -18,6 +18,6 @@ This game was built as a Udacity Front End Dev. course project. The purpose of t
 	 * Card Flip CSS: https://3dtransforms.desandro.com/card-flip
 	 * Game Icons: @gameicons (Creative commons) 
 	 * Game Icons authors:Lorc, Delapouite and contributors
-	 * Adobe Illustrator, PhotoShop, Dreamweaver
-	 * Atom, Git Hub.
+	 * Adobe CC (Illustrator, PhotoShop, Dreamweaver).
+	 * Atom, GitHub.
 #### I looked at a lot of different approaches to code this game...thanks to all for inspiration and education!
