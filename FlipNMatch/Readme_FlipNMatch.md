@@ -10,8 +10,8 @@ This game was built as a Udacity Front End Dev. course project. The purpose of t
 	 * Then turns over a second card, trying to find a matching card.
 	 * If a match, both cards stay flipped.
 	 * If the cards do not match, cards are flipped back to hide unmatched symbols.
- *  * The game ends once all cards have been matched. *  * 
-	 *  * A pop-up appears with the elapsed time, final star rating and a restart button. *  * 
+	 * The game ends once all cards have been matched.
+	 * A pop-up appears with the elapsed time, final star rating and a restart button.
 #### Resources used to research and/or create the game:
 	 * Udacity Forums, Udacity Git Hubs, MDN, CSS Tricks, Scotch, Kahn Academy.
 	 * My Udacity Mentor, Mofid, and Reviewer. Python Tutor, and other websites.
@@ -20,4 +20,4 @@ This game was built as a Udacity Front End Dev. course project. The purpose of t
 	 * Game Icons authors: Lorc,&#160;Delapouite&#160;&amp;&#160;contributors
 	 * Adobe Illustrator, PhotoShop, Dreamweaver
 	 * Atom, Git Hub.
- *  * I looked at a lot of different approaches to code this game...thanks to all for inspiration and education! *  * 
+#### I looked at a lot of different approaches to code this game...thanks to all for inspiration and education!####
