@@ -15,7 +15,7 @@ This game was built as a Udacity Front End Dev. course project. The purpose of t
 
 #### Resources used to research and/or create the game:
 	 * Udacity Forums, Udacity Git Hubs, MDN, CSS Tricks, Scotch, Kahn Academy, and Python Tutor.
-	 * My Udacity Mentor, Mofid, and Reviewer.
+	 * My Udacity Mentor, Mofid, and Project Reviewer.
 	 * Card Flip CSS: https://3dtransforms.desandro.com/card-flip
 	 * Game Icons: @gameicons (Creative commons) 
 	 * Game Icons authors:Lorc, Delapouite and contributors
