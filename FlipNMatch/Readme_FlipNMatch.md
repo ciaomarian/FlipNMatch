@@ -21,4 +21,4 @@ This game was built as a Udacity Front End Dev. course project. The purpose of t
 	*Game Icons authors: Lorc,&#160;Delapouite&#160;&amp;&#160;contributors
 	*Adobe Illustrator, PhotoShop, Dreamweaver
 	*Atom, Git Hub.
-**I looked at a lot of different approaches to code this game...thanks to all for inspiration and education:
+**I looked at a lot of different approaches to code this game...thanks to all for inspiration and education!**
