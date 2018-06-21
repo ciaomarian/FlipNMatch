@@ -2,7 +2,7 @@
 
 I built this game as a Udacity Front End Dev. course project. The purpose of the project is to demonstrate use of HTML, CSS, and JavaScript as learned in class. I studied an additional Udacity Object-Oriented Javascript, and also a React course for more information and understanding about how best to code this project.
 #### Game sequence:
-	*Player can choose between 3 deck levels with 12, 16 and 24 hards each.
+	*Player can choose between 3 deck levels with 12, 16 and 24 cards each.
 	*A timer displays play time and total minutes taken to complete matches.
 	*There is an initial 3 star rating which drops as more time and moves are taken.
 #### On each turn:
